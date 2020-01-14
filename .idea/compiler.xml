@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="atguigu_mp" />
+        <module name="atguigu_poi" />
+        <module name="guli-common" />
+        <module name="guli-edu" />
+        <module name="guli-eureka" />
+        <module name="guli-oss" />
+        <module name="guli-statistics" />
+        <module name="guli-sysuser" />
+        <module name="guli-ucenter" />
+        <module name="guli-vod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atguigu_mp" target="1.8" />
+      <module name="atguigu_poi" target="1.8" />
+      <module name="guli-common" target="1.8" />
+      <module name="guli-edu" target="1.8" />
+      <module name="guli-eureka" target="1.8" />
+      <module name="guli-oss" target="1.8" />
+      <module name="guli-parent" target="1.8" />
+      <module name="guli-statistics" target="1.8" />
+      <module name="guli-sysuser" target="1.8" />
+      <module name="guli-ucenter" target="1.8" />
+      <module name="guli-vod" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

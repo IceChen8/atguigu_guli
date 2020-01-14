@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../guli/atguigu_mp/atguigu_mp.iml" filepath="$PROJECT_DIR$/../guli/atguigu_mp/atguigu_mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu_poi/atguigu_poi.iml" filepath="$PROJECT_DIR$/atguigu_poi/atguigu_poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-common/guli-common.iml" filepath="$PROJECT_DIR$/guli-common/guli-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-edu/guli-edu.iml" filepath="$PROJECT_DIR$/guli-edu/guli-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-eureka/guli-eureka.iml" filepath="$PROJECT_DIR$/guli-eureka/guli-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-oss/guli-oss.iml" filepath="$PROJECT_DIR$/guli-oss/guli-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-parent/guli-parent.iml" filepath="$PROJECT_DIR$/guli-parent/guli-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-statistics/guli-statistics.iml" filepath="$PROJECT_DIR$/guli-statistics/guli-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-sysuser/guli-sysuser.iml" filepath="$PROJECT_DIR$/guli-sysuser/guli-sysuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-ucenter/guli-ucenter.iml" filepath="$PROJECT_DIR$/guli-ucenter/guli-ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-vod/guli-vod.iml" filepath="$PROJECT_DIR$/guli-vod/guli-vod.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atguigu_poi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-edu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-sysuser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-vod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../guli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../guli/atguigu_mp" charset="UTF-8" />
+  </component>
+</project>
